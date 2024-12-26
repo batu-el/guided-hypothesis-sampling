@@ -4,4 +4,4 @@
 
 Link to Paper: https://drive.google.com/file/d/1irfeto2mPHuTviJ-Dl0K4dkufrMTyp0l/view?usp=sharing <br>
 Link to Data: https://drive.google.com/drive/folders/1PzNdEactL4S8OVCGuX-0I2za49H2wM1c?usp=drive_link  <br>
-Course: https://www.cl.cam.ac.uk/teaching/2324/L101/
+Course Page: https://www.cl.cam.ac.uk/teaching/2324/L101/

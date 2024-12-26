@@ -4,3 +4,4 @@ Project Abstract: Minimum Bayes risk (MBR) decoding is an inference method used 
 
 Link to the Data: https://drive.google.com/drive/folders/1P7MhmbxsqCjraYLTSMWNX-H0t2A2yFUt?usp=sharing  <br>
 Link to the Paper: ~to be added
+Course: https://www.cl.cam.ac.uk/teaching/2324/L101/

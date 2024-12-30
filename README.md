@@ -12,11 +12,7 @@ Minimum Bayes risk (MBR) decoding is an inference method used in conditional lan
 ![Alt text](assets/example-2.png)
 
 ## Evaluations
-
-<div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="assets/bleurt-table.png" alt="Bleurt Table" style="width:45%; object-fit: contain; margin: 0;">
-  <img src="assets/chrf-table.png" alt="Chrf Table" style="width:45%; object-fit: contain; margin: 0;">
-</div>
+![Alt text](assets/evals.png)
 
 ## Citation
 ```bibtex

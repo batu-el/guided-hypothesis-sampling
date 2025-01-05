@@ -1,6 +1,6 @@
 # Bayesian Optimization for Guided Hypothesis Sampling in Minimum Bayes Risk Decoding
 
-[![Paper](https://img.shields.io/badge/Paper-007ACC?style=for-the-badge&labelColor=007ACC)](https://drive.google.com/file/d/1irfeto2mPHuTviJ-Dl0K4dkufrMTyp0l/view?usp=sharing)
+[![Paper](https://img.shields.io/badge/Paper-007ACC?style=for-the-badge&labelColor=007ACC)](https://github.com/batu-el/guided-hypothesis-sampling/blob/main/paper-guided-hypothesis-sampling.pdf)
 [![Drive Folder](https://img.shields.io/badge/Drive_Folder-007ACC?style=for-the-badge&labelColor=007ACC)](https://drive.google.com/drive/folders/1PzNdEactL4S8OVCGuX-0I2za49H2wM1c?usp=drive_link)
 [![Course Page](https://img.shields.io/badge/Course_Page-007ACC?style=for-the-badge&labelColor=007ACC)](https://www.cl.cam.ac.uk/teaching/2324/L101/)
 
